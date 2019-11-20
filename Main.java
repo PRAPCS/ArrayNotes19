@@ -1,8 +1,8 @@
 class Main {
   public static void main(String[] args) {
-    // Declare an array (aways defaults to 0)
+    // Declare an array (always defaults to 0)
     int[] arr1 = new int[10];
-    // Decalre and initialize the array
+    // Declare and initialize the array
     int[] arr2 = { 4, 5, 6, 20, 100, 42 };
     arr1[1] = 50;//assign number to slot 1
     arr1[5] = 10;//assign number to slot 5
